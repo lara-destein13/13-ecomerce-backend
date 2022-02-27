@@ -31,12 +31,14 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Usage
 
-Open two terminal windows and navigate to the Develop directory
-In one windw, run <npm run seed> then <mysql -u root>. From here, you can view the ecommerce_db databse and its tables.
-In the second window start the server by running <node server.js>
-Use Insomnia to test the API GET, POST, PUT, and DELETE routes for category, tag, and product
+* Open two terminal windows and navigate to the Develop directory
+* In one windw, run <npm run seed> then <mysql -u root>. From here, you can view the ecommerce_db databse and its tables.
+* In the second window start the server by running <node server.js>
+* Use Insomnia to test the API GET, POST, PUT, and DELETE routes for category, tag, and product
 
 See link to a walkthorugh video: https://drive.google.com/file/d/1dTi2H7WLafjLWrJB_GZQe-BqH5x7DX87/view
 
+![Screen Shot 2022-02-26 at 6 54 58 PM](https://user-images.githubusercontent.com/88476888/155862830-6b7fd1be-4c60-4733-a897-f3e796c513a0.png)
+  
 ## Contributing
 Made with &hearts; by Lara DeStein
